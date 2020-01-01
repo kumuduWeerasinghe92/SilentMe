@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "182668649807",
+    "firebase_url": "https://eventit-81270.firebaseio.com",
+    "project_id": "eventit-81270",
+    "storage_bucket": "eventit-81270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182668649807:android:96f764de9688202dea913a",
+        "android_client_info": {
+          "package_name": "com.cse.eventit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182668649807-62k80gcjb1e42bav6e6rhn0puk1qjusv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe_fZm-hejYSwtlPGdSJY-AgPctKsH-tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182668649807-62k80gcjb1e42bav6e6rhn0puk1qjusv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182668649807:android:fd697f41c9c5ff51ea913a",
+        "android_client_info": {
+          "package_name": "com.planit.planit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182668649807-62k80gcjb1e42bav6e6rhn0puk1qjusv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe_fZm-hejYSwtlPGdSJY-AgPctKsH-tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182668649807-62k80gcjb1e42bav6e6rhn0puk1qjusv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

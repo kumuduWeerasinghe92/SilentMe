@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.planit.planit.PlanItActivity">
+    <item
+        android:id="@+id/action_edit"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        android:icon="@drawable/edit_icon"
+        android:title="@string/edit"/>
+</menu>

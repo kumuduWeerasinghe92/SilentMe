@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <fragment
+
+        android:id="@+id/mapview"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MapsActivity" />
+
+    <View
+        android:id="@+id/date_start_seperator"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_marginTop="18dp"
+        android:background="@color/mapribon" />
+
+    <ImageView
+        android:id="@+id/ic_gps"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/ic_gps" />
+
+    <ImageView
+        android:id="@+id/ic_issilentview"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_below="@id/date_start_seperator"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="13dp"
+        android:src="@drawable/ic_silent" />
+    <ImageView
+        android:id="@+id/ic_eventbtn2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/ic_gps"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/ic_eventbtn2" />
+
+
+</RelativeLayout>

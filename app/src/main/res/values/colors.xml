@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF7700</color>
+    <color name="colorPrimaryDarik">#6D6D6D</color>
+    <color name="colorPrimaryDark">#CC7900</color>
+    <color name="colorPrimaryLight">#FAF4E0</color>
+    <color name="colorSecondary">#FAF3E0</color>
+    <color name="colorFood1">#E3CCA9</color>
+    <color name="colorFood2">#F1EAD4</color>
+    <color name="colorAccent">#E25002</color>
+    <color name="textOnP">#ffebee</color>
+    <color name="textOnS">#FFA000</color>
+    <color name="background">#FAFAFA</color>
+    <color name="mapribon">#00FAFAFA</color>
+</resources>
